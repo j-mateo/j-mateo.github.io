@@ -1,0 +1,35 @@
+name: Android and Other Nerdities
+description: Android and other things
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus_shortname: 'josemateo'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'Jose Mateo'
+authorTwitter:  'yomat3o'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
