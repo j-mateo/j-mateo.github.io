@@ -1,35 +1,33 @@
-name: Jose Mateo
-description: Android and other things
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 
-aboutPage: true
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-markdown: redcarpet
-highlighter: pygments
+# Setup
+title:            Jose Mateo
+tagline:          'Android and other stuff'
+description:      I'm an Android developer at Cycle Trader. This is my personal blog where I post whatever I want. Mostly Android stuff.
+url:              http://mateoj.com
+baseurl:          /
+googleplus:		  http://google.com/+JoseMateoA
+twitter: 		  https://twitter.com/YoMat3o
+linkedin: 		  http://www.linkedin.com/in/josemateoa  
 
-paginate: 20
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus_shortname: 'josemateo'
+excerpt_separator: <!--more-->
 
-# Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Jose Mateo'
-authorTwitter:  'yomat3o'
+disqus_shortname: josemateo
+author:
+  name:           'Jose Mateo'
+  url:            https://twitter.com/yomat3o
 
-permalink:       /:year/:title/
+paginate:         5
 
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
+# Custom vars
+version:          2.1.0
+
+github:
+  profile:        https://github.com/j-mateo
+  repo:           https://github.com/poole/hyde
