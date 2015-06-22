@@ -163,7 +163,7 @@ public void setContentView(int layoutResID)
 Any activity that wants to opt out from having a toolbar just needs to override the useToolbar method and return false.
 
 ### What's Next?
-That's it for part one of the tutorial, folks. In part two, we will look at different ways to style our toolbar the navigation view. 
+That's it for part one of the tutorial, folks. In part two, we will look at different ways to style our toolbar and the navigation view. 
 
 
 
