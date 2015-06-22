@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding a Toolbar and Navigation Drawer Across all Activities of an Android App - Part 1
-description: Adding the toolbar to every one of your activities individaully might be tedious. Learn how to use the same toolbar across all your activities.
+description: Adding the toolbar to every one of your activities individauly might be tedious. Learn how to use the same toolbar across all your activities.
 ---
 Gone are the days of using the sucky actionbar. With the introduction of Android 5.0, the actionbar has been replaced by the toolbar. The Toolbar allows more customization and can be placed anywhere in the UI since it's just a viewgroup. In order to use the toolbar as an actionbar, you must declare it in your xml and set it as the support action bar in the activity.
 
