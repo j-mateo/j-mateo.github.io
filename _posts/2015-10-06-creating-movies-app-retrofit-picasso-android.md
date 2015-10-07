@@ -346,8 +346,8 @@ We can finally run our app and see our glorious Guardians of the Galaxy posters:
 
 ![Mock data movie app](/public/images/movies-app/screenshot_step2.png)
 
-That's it for part 1. In part two, we will consume a REST Api using Retrofit and show real movie posters. We will
-also add another activity to view more details about each movie.
+That's it for part 1. In part two, we will consume a REST Api using Retrofit and show real movie posters. We will also add another activity to view more details about each movie.
+
 
 
 
