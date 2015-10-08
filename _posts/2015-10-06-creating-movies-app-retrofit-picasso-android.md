@@ -17,7 +17,9 @@ You may download the complete project [here](http://bit.ly/1jQo3zz){:target="_bl
 
 ### Google Hangout
 
-[Right here](https://plus.google.com/hangouts/_/dominionenterprises.com/jose-mateoacost){:target="_blank"}
+<iframe width="560" height="315" src="//www.youtube.com/embed/Y0XY-MUyMco" frameborder="0" allowfullscreen></iframe>
+
+[Or click Right here](https://plus.google.com/events/crilq8m45lp5iqaf2bi5qoegqtk){:target="_blank"}
 
 ### Setting up Android Studio
 If you don't have Android Studio, [download](https://developer.android.com/sdk/index.html){:target="_blank"} and install it.
