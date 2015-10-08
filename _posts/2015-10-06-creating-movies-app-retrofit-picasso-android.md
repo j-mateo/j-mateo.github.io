@@ -11,8 +11,10 @@ so you don't need any Android experience to complete it. However, I do recommend
 This is part one where we will set up the project and a grid using a mock movie poster. In [part two](/2015/10/07/2015-10-07-creating-movies-app-retrofit-picass-android-part2/), we will bring in Retrofit
 and show real movie posters as well as detail information for each movie.
 <!--more-->
+
 ### Zip Download
 You may download the complete project [here](http://bit.ly/1jQo3zz){:target="_blank"}
+
 ### Setting up Android Studio
 If you don't have Android Studio, [download](https://developer.android.com/sdk/index.html){:target="_blank"} and install it.
 Then follow [these instructions](https://developer.android.com/sdk/installing/adding-packages.html){:target="_blank"} to add SDK packages.
