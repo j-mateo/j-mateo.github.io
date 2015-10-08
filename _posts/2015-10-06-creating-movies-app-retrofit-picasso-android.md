@@ -15,6 +15,9 @@ and show real movie posters as well as detail information for each movie.
 ### Zip Download
 You may download the complete project [here](http://bit.ly/1jQo3zz){:target="_blank"}
 
+### Google Hangout
+[https://plus.google.com/hangouts/_/dominionenterprises.com/jose-mateoacost](https://plus.google.com/hangouts/_/dominionenterprises.com/jose-mateoacost){:target="_blank"}
+
 ### Setting up Android Studio
 If you don't have Android Studio, [download](https://developer.android.com/sdk/index.html){:target="_blank"} and install it.
 Then follow [these instructions](https://developer.android.com/sdk/installing/adding-packages.html){:target="_blank"} to add SDK packages.
